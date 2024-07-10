@@ -1,1 +1,1 @@
-# investigate-ai-scraping
+Scraping investigate.ai and practising isolating sections to scrape.
